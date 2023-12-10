@@ -19,5 +19,5 @@ The concierge-api.zip contains the source code the the API. The link for the con
 
 The instructions for setting up and running the application locally are documented in the _Running Concierge App Locally_ file. 
 
-# Tests
+## Tests
 The unit tests are included in the source code for concierge-web. There are no tests for concierge-api at this time.
